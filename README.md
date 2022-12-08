@@ -1,2 +1,2 @@
 # tasujun
-data visualization with jupyter notebook
+da[**ta**]() vi[**su**]()alization with [**ju**]()pyter [**n**]()otebook
