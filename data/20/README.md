@@ -1,2 +1,4 @@
 # 20
-Febriaty, Hastina. "Dampak Erupsi Gunung Sinabung terhadap Pendapatan dari Sektor Pariwisata di Kabupaten Karo." Jurnal Ekonomikawan, vol. 15, no. 1, 2015, doi:10.30596/ekonomikawan.v15i1.1030, url http://jurnal.umsu.ac.id/index.php/ekawan/article/view/1030
+Hasan, Zulkarnain, and Nadjadji Anwar. "Kajian Model Fisik Pengaruh Freeboard dan Susunan Buis Beton sebagai Pemecah Gelombang Tenggelam Ambang Rendah (Pegar) dalam Mereduksi Gelombang." Borneo Engineering, vol. 1, no. 2, 31 Dec. 2017, pp. 34-43.
+
+[journal source](https://www.neliti.com/publications/276508/kajian-model-fisik-pengaruh-freeboard-dan-susunan-buis-beton-sebagai-pemecah-gel#cite)
